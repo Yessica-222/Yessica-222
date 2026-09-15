@@ -1,6 +1,6 @@
 # Hola, soy Yessica Muñoz 👋
 
-💻 Desarrolladora Full Stack Junior
+Desarrolladora Full Stack Junior
 
 ## Tecnologías
 
@@ -33,5 +33,3 @@ CRUD completo con autenticación JWT y roles.
 
 ## Contacto
 
-LinkedIn: TU_LINKEDIN
-Email: TU_CORREO
