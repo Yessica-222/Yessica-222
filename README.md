@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hola, soy Yessica Muñoz 👋
 
-<!--
-**Yessica-222/Yessica-222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrolladora Full Stack Junior
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Angular
+- TypeScript
+- Node.js
+- Express
+- MongoDB
+- Laravel
+- PHP
+- MySQL
+- Docker
+- Git
+
+## Proyectos Destacados
+
+### Bit Frontend
+Aplicación desarrollada en Angular para gestión de servicios y citas.
+
+### Bit Backend
+API REST desarrollada con Node.js, Express y MongoDB.
+
+### Sistema de Gestión Laravel
+CRUD completo con autenticación JWT y roles.
+
+## Actualmente
+
+📚 Mejorando inglés (A2 → B1)
+🚀 Buscando oportunidades como Desarrolladora Junior
+
+## Contacto
+
+LinkedIn: TU_LINKEDIN
+Email: TU_CORREO
